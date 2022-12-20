@@ -1,7 +1,7 @@
 # Grind 75
 
 ## Array
-- [X] Two Sum
+- [X] [Two Sum](https://github.com/mouajas/grind-75/tree/main/Array/Two-Sum)
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
 - [ ] Majority Element
